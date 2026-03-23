@@ -26,10 +26,12 @@ function App() {
             <Route path="/" element={<Home />} />
             <Route path="/about" element={<About />} />
             <Route path="/projects" element={<Projects />} />
-            <Route path="/graphics" element={<div><h2>Graphics Gallery Coming Soon</h2></div>} />
-            <Route path="/contact" element={<div><h2>Contact Coming Soon</h2></div>} />
+            <Route path="/graphics" element={<GraphicDesign />} />
+            <Route path="/contact" element={<Contact />} />
           </Routes>
         </main>
+        <AIChat />
+        <Footer />
       </div>
     </Router>
   )
