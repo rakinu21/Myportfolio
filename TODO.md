@@ -1,22 +1,23 @@
 # Portfolio Website TODO
 
 ## Completed
-- [x] Create project folder and Vite setup
-- [x] Install dependencies
-- [x] .gitignore
-- [x] Git init
+- [x] Step 1: Project Setup (Vite manual bootstrap)
+- [x] Dependencies installed
+- [x] Git setup & initial push
+- [x] Basic folder structure (styles, utils, animations, components/Loader, ThemeToggle)
+- [x] Base CSS (variables, global)
+- [x] App.jsx basic routing, loader, theme toggle
+- [x] Step 12: Dev server running (localhost:5173)
 
-## In Progress
-- [ ] Step 2: Folder Structure
-- [ ] Step 3: Root files update
-- [ ] Step 4: App.jsx routing
-- [ ] Step 5: Pages creation
-- [ ] Step 6: Components
-- [ ] Step 7: GSAP animations
-- [ ] Step 8: CSS files
-- [ ] Step 9: Theme and loader
-- [ ] Step 10: Responsive
-- [ ] Step 11: Git commit/push
-- [ ] Step 12: Test dev server
+## Next
+- [ ] Full pages (Home hero, About skills, Projects GitHub, Graphics gallery, Contact form)
+- [ ] Components (Navbar full, Footer, AIChat, ProjectCard)
+- [ ] GSAP page transitions, scroll reveals
+- [ ] Component CSS files
+- [ ] Responsive design
+- [ ] AI Chat widget
+- [ ] Performance (lazy load pages)
+- [ ] Git commit & push final
+
 
 
